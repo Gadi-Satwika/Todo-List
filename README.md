@@ -20,7 +20,7 @@ A simple and effective Todo List application that allows users to manage their d
 
 ## 📸 Preview
 
-![Todo List Screenshot](screenshot.png)
+https://gadi-satwika.github.io/SCT_WD_4/
 
 🎯 Purpose
 Helps users stay productive by tracking and managing daily goals.
